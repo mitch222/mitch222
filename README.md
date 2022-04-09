@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mitch222
+- 👀 I’m interested in learning ethical hacking and improving my actual skills
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on whatever i could
+- 📫 How to reach me // email: mitchellbermin10@gmail.com // int: _soym22
