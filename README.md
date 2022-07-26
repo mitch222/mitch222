@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @mitch222
-- 👀 I’m interested in learning ethical hacking and improving my actual skills
+- 👋 Hi, I’m MitchellPhillip Bermin Suarez
+- 👀 I’m interested in learning machine learning and ethical hacking.
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on whatever i could
-- 📫 How to reach me // email: mitchellbermin10@gmail.com // int: _soym22
+- 📫 How to reach me // email: mitchellbermin10@gmail.com 
